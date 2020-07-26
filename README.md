@@ -1,4 +1,4 @@
-# Binbing_Graphic-Design-Portfolio
+# Binbing_Graphic Design Portfolio
 ## My Graphic Design Projects from Parsons School of Design
 
 1. Music Event Poster
